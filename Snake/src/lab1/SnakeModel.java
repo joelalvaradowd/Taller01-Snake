@@ -1,5 +1,5 @@
 package lab1;
-
+//Comentario
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.event.KeyEvent;
